@@ -16,7 +16,6 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-
 def create_todo(todo_text, is_done=False):
     global todo_id
     todo ={ 
