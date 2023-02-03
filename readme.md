@@ -21,9 +21,9 @@ This function takes in an id parameter and searches for the todo item with that 
 
 ----------------------------------------------------------------------------------------------
 
-# Why Charizard is the best pokemon
+# My favourite pokemon
 
-Charizard is the best pokemon because it can fly and breathe fire.
+Charizard is the my favourite pokemon because it can fly and breathe fire.
 
 
 ----------------------------------------------------------------------------------------------
