@@ -47,3 +47,12 @@ async def update_todo_by_id(id: int, request: Request):
             todo.update(updated_todo)
             return todo
     return {"error": "Todo not found"}, 404
+
+@app.delete("/todos/{id}")
+async def delete_todo(id: int):
+    todo = [t for t in todo_list if t['id'] == id]
+    if todo:
+        todo_list.remove(todo[0])
+        return {"message": "Todo successfully deleted."}
+    else:
+        return {"message": "Todo not found."}, 404
