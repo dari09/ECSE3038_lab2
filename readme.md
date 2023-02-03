@@ -1,6 +1,6 @@
 Darien Maynard 620133775
 
-# Lab 1
+# Lab 2
 
 ----------------------------------------------------------------------------------------------
 
@@ -22,6 +22,8 @@ This function takes in an id parameter and searches for the todo item with that 
 ----------------------------------------------------------------------------------------------
 
 # My favourite pokemon
+
+<img src="https://www.clipartmax.com/png/middle/181-1818253_charizard-x-pokemon-mega-evolution-charizard.png" alt="Alt text" title="Charizard">
 
 Charizard is the my favourite pokemon because it can fly and breathe fire.
 
